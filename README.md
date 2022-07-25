@@ -1,5 +1,5 @@
 # Portfolio-Website
-# The project includes : 
-# 1. Project Database 
-# 2. Project Preview 
-# 3. Project App
+The project includes : 
+1. Project Database 
+2. Project Preview 
+3. Project App
